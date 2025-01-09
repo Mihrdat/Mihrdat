@@ -8,6 +8,5 @@ Please check out my portfolio [here](https://mihrdat.com/).
 
 If you're interested in working together or have any questions, feel free to contact me.
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrdad-mahmoodpoor-856aa7247/)
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:mahmoodpoor.mihrdat@gmail.com/)
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/Mihr_Dat)
